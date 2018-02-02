@@ -1,12 +1,3 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 Sportsbooking is a Rails 4 + MaterializeCSS app for booking sports installations.
 
@@ -41,13 +32,8 @@ This is a proyect forn an Agile Development Methods subject created by 6 friends
 * How to run tests
 * Deployment instructions
 
-### Contribution guidelines ###
+### Built With ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Ruby on Rails
+* Materialize
+* Sqlite3
